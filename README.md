@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @iZem-tudert real name Azeddine
 - 👀 I’m interested in mechatronics , smart technologies and python
 - 🌱 I’m currently learning python,Ai , Rosepberry Pi, Deep Dearning, Autonomous Robots
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open 
+- 
 - 📫 How to reach me azeddine.dj0@gmail.com
 
 <!---
